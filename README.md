@@ -1,2 +1,2 @@
 # Radotage
-Image and video editor
+Image, audio, and video editor
